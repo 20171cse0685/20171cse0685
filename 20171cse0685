@@ -76,7 +76,7 @@ alert(str)
 <font size="4">font size =4</font><br/>
 <font size="5">font size =5</font><br/>
 <font size="6">font size =6</font><br/>
-<font size="7">font size =7</font><br/>
+<font size="7">font size =7</font><font size="8"> font size =8</font><br/>
 <marquee direction="right"><img src="https://format-magazine-production-res.cloudinary.com/image/upload/c_crop,h_800,w_960,x_147,y_0,f_jpg,f_auto/dpr_3.0/c_scale,w_767,h_639/shelby-white-359098-unsplash" width="350"></marquee>
 
 <p style="font-family:veranda;">this is a paragraph</p>

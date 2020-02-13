@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>Sample resume</title>
+</head>
+<body style="background-color:powderblue;color:grey" >
+<img align="right" src="/home/Sem6B10/Downloads/d.jpeg">
+<h1>xyz</h1>
+
+<br/>
+
+
+<a href="xyz@gmail.com">xyz.com</a>
+<br/>
+<h1><u>20171289134</u></h1>
+<br/>
+<hr/>
+<h2>CV highlights</h2>
+<ul>
+<li>&nbsp;Regardless of format, your career highlights section should be found at the top of your resume, directly beneath your contact information.</li>
+<li>Use the same header sizing and font as for your other major sections.</li>
+<li>Title this section Career Highlights or Career Qualifications.</li>
+<li>A summary paragraph of career highlights is the best format to use with a skills-based resume or if you are relatively new to the workforce.</li>
+<li>Listing your career highlights in bullets works well if you have lots of qualifications or relevant work experience.</li>
+<li>Bullets allow you to choose the most important pieces of information based upon the position for which you are applying.</li>
+</ul>
+<br/>
+<font size=5><b>Professional Expireince</b></font>
+<ul>
+<li><font size='5'><b><u>Infosys</U></b></font></li>
+<br/>
+<font size=3><u>Expirienced gained in the process</u></font>
+<ul>
+<li>fga</li>
+<li>asfbkj</li>
+<li>safhlkj</li>
+</ul>
+
+<br/>
+<li ><font size='5'><u><b>Education</b></u></font></li>
+<br/>
+
+<table border="1" width="100" cellspacing="6" cellpadding="7" >
+<th>Primary </th>
+<th>Secondary</th>
+<th>Graduation</th>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<td></td>
+<td></td>
+<td></td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</ul>
+<li><font size='5'>Softskills</font></li>
+
+</body>
+</html>

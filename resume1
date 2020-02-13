@@ -1,0 +1,11 @@
+<html>
+<head>
+<frameset cols="10%,80%,10%">
+<frame name=top src="">
+<frame name=main src="file:///home/Sem6B10/Desktop/IT/resume">
+<frame name=bottom src="">
+<noframes>
+<body>your web browser does not support frames</body>
+</frameset>
+</head>
+</html>
