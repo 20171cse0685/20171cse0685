@@ -5,7 +5,13 @@ p.normal{color:white;letter-spacing:5px;text-shadow:4px 4px 8px red;}
 p.specific{color:green;font-style:italic;font-weight:bold;direction:rtl;word-spacing:10px;text-shadow:4px 4px 8px white;}
 img:hover{border:3px solid blue;width:1000px;opacity:0.7;}
 #h12{color:yellow;}
-p.two{border-color:red green blue yellow;border-style:solid;border-width:2px 10px 4px 200px;}
-p.a{border-top-style:dotted;border-right-style:dotted;border-bottom-style:dotted;border-left-style:solid;}
+p.two{border-color:red green blue yellow;border-style:solid;border-width:2px 10px 4px 200px;padding-top:50px;padding-right:30px;padding-bottom:50px;padding-left:80px;}
+p.a{border-top-style:dotted;border-right-style:dotted;border-bottom-style:dotted;border-left-style:solid;padding-top:50px;padding-right:30px;padding-bottom:50px;padding-left:80px;}
 p.b{border-left:400px solid black ;background-color:lightgrey;}
 p.c{margin:25px 50px 75px 400px;color:white;}
+p.s{border:dashed 2px green;padding:80px;margin:2cm;text-align:center;color:grey;}
+li{display:block;}
+sapn.a{display:block-inline;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
+a{border:solid 2px green;padding:15px;background-color:black;color:white;font-size:30;text-decoration:none;display:inline;}
+a.a{border:solid 2px ;padding:15px;color:grey;background-color:white;}
+a.a:visited{background-color:grey;color:white;}
