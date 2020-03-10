@@ -14,4 +14,10 @@ li{display:block;}
 sapn.a{display:block-inline;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
 a{border:solid 2px green;padding:15px;background-color:black;color:white;font-size:30;text-decoration:none;display:inline;}
 a.a{border:solid 2px ;padding:15px;color:grey;background-color:white;}
-a.a:visited{background-color:grey;color:white;}
+a.a:hover{background-color:grey;color:white;}
+p.x::first-letter{color:yellow;font-size:xx-large;}
+h1::before{content:url(/home/Sem6B10/Downloads/index1.jpeg);}
+::selection{color:black;background:grey;}
+div.ax{background-image:url(/home/Sem6B10/Downloads/coffee.jpeg);width:900;height:250;padding:20px;}
+div.bx{background:black;width:700;text-align:center;opacity:0.8;height:150;padding:20px;}
+#grad{background-image:repeating-radial-gradient(indigo 10%,yellow 20%);}
