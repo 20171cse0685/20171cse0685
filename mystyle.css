@@ -17,7 +17,21 @@ a.a{border:solid 2px ;padding:15px;color:grey;background-color:white;}
 a.a:hover{background-color:grey;color:white;}
 p.x::first-letter{color:yellow;font-size:xx-large;}
 h1::before{content:url(/home/Sem6B10/Downloads/index1.jpeg);}
-::selection{color:black;background:grey;}
+
+::selection{color:black;background:yellow;}
+
 div.ax{background-image:url(/home/Sem6B10/Downloads/coffee.jpeg);width:900;height:250;padding:20px;}
 div.bx{background:black;width:700;text-align:center;opacity:0.8;height:150;padding:20px;}
+
 #grad{background-image:repeating-radial-gradient(indigo 10%,yellow 20%);}
+
+div.ax:hover{width:300px;height:300px;background:white;transform:rotate(360deg);transition:width 10s,height 10s,transform 20s;border-radius:5px;}
+
+div.ani{width:500px;height:100px;background-color:red;animation-name:example;animation-duration:5s;animation-direction:alternate-reverse;}
+@keyframes example{from{background-color:red;} to{background-color:yellow;}}
+
+
+
+
+
+
